@@ -1,1 +1,4 @@
 SAM model/sam_vit_l_0b3195.pth
+Dataset_BUSI_with_GT\benign\
+Dataset_BUSI_with_GT\maligant\
+Dataset_BUSI_with_GT\normal\
