@@ -1,0 +1,13 @@
+Dataset,IOU,Dice Score,Pixel Wise Accuracy
+../SAM_predictions_BBox/valid/benign_metrics.csv,0.2748321770116971,0.3463548800066628,0.8873160767839811
+../SAM_predictions_BBox/train/benign_metrics.csv,0.2235549953672406,0.2892347050797518,0.8699712618000774
+../SAM_predictions_BBox/valid/malignant_metrics.csv,0.13044055323012047,0.17672190943203492,0.766287066133027
+../SAM_predictions_BBox/train/malignant_metrics.csv,0.19695132109558783,0.2672300276433093,0.7815357401075474
+../SAM_predictions_BBoxPoint/valid/benign_metrics.csv,0.26964234315524327,0.34273431394240916,0.8784211942974613
+../SAM_predictions_BBoxPoint/train/benign_metrics.csv,0.25340198769933553,0.33073283646066776,0.8666109495224739
+../SAM_predictions_BBoxPoint/valid/malignant_metrics.csv,0.13642991737792978,0.1872443496037535,0.7595226016862018
+../SAM_predictions_BBoxPoint/train/malignant_metrics.csv,0.2005883406964699,0.2745971811549386,0.7719892764287033
+../SAM_predictions_Point/valid/benign_metrics.csv,0.27919355130615664,0.3221061856980117,0.6207809789509977
+../SAM_predictions_Point/train/benign_metrics.csv,0.2744580224442557,0.32610231272559936,0.6558168663975859
+../SAM_predictions_Point/valid/malignant_metrics.csv,0.1845647610885363,0.2495939470092565,0.487588134704685
+../SAM_predictions_Point/train/malignant_metrics.csv,0.19518453356176077,0.26192243284542943,0.5662630001613622
