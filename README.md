@@ -1,4 +1,4 @@
-# DLCV-Project : Automated extraction of optimal visual prompts for foundational models in medical image segmentation 
+# DLCV-Project : Weakly Supervised automated extraction of optimal visual prompts for foundational models in medical image segmentation 
 Name : Rushikesh Pawar & Vivek Dhamale
 
 Abstract: The lack of publicly available quality annotations in medical imaging has been the bottleneck for training 
