@@ -9,4 +9,4 @@ pretrained on natural images to return valid segmentation mask for a relevant pr
 foreground/background points, a rough box or mask, freeform text, or, even text, indicating the regions 
 to segment in an image). However, SAMs typically involve providing manual prompts. In this paper we propose a method to automatically extract optimal prompts for SAM is a weakly supervised manner.
 We also evaluate the performance of different prompts (point,bounding box and their combination) on the task of medical image segmentation.
-We compare the quality of automatically extracted prompts with manually provided prompts on the basis of how well they perform on medical image segmentation task. The code is available at \url{https://github.com/rushikeshpawar22581/DLCV-Project2024-Automated_prompt_extraction_for_SAM}
+We compare the quality of automatically extracted prompts with manually provided prompts on the basis of how well they perform on medical image segmentation task.
